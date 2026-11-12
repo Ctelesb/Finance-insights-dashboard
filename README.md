@@ -1,7 +1,8 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo.svg">
-    <img alt="Telescode" src="assets/logo_light.svg" width="420">
+    <img alt="Telescode" src="<img width="1526" height="600" alt="Captura de tela 2026-11-12 205409" src="https://github.com/user-attachments/assets/03ad2a4a-ae9e-40fe-8121-9d0a1b1b2710" />
+" width="420">
   </picture>
 </p>
 
