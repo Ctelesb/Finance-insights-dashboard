@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-  <a href="https://finance-insights-dashboard-telescode.streamlit.app/"><b>Ver o app no ar</b></a>
+  <a href="https://finance-insights-dashboard-telescode-4.streamlit.app/"><b>Ver o app no ar</b></a>
 </p>
 
 ---
 
 ## O que é
 
-O **Sobrou** (Finance Insights) é um dashboard de finanças pessoais feito em Python com Streamlit. Você envia o extrato
+O **Finance-insights-dashboard** (Finance Insights) é um dashboard de finanças pessoais feito em Python com Streamlit. Você envia o extrato
 (CSV ou OFX) ou usa os dados de exemplo, e o app transforma linhas de transações em respostas simples: quanto sobrou
 no mês, o que pesou no orçamento, o que cortar, quanto guardar para cada objetivo e onde investir.
 
@@ -33,7 +33,7 @@ Todo o app está em português e usa o formato brasileiro (R$, datas `dd/mm/aaaa
 <!-- Adicione prints ou um GIF em docs/ e referencie aqui, por exemplo:
 <p align="center"><img src="docs/visao-geral.png" width="900" alt="Visão geral do Sobrou"></p> -->
 
-Teste sem instalar nada: **[finance-insights-dashboard-telescode.streamlit.app](https://finance-insights-dashboard-telescode.streamlit.app/)**.
+Teste sem instalar nada: **[https://finance-insights-dashboard-telescode-4.streamlit.app/](https://finance-insights-dashboard-telescode-4.streamlit.app/)**.
 O app abre com dados de exemplo; para analisar o seu extrato, envie o arquivo na barra lateral.
 
 ## Páginas
