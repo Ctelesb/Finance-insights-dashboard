@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h1 align="center">Sobrou</h1>
+<h1 align="center">Finance Insides Dashboard</h1>
 
 <p align="center"><b>Finance Insights</b>: seu extrato, em respostas simples</p>
 
