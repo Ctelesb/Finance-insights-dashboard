@@ -1,42 +1,30 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 72"><g transform="translate(4,8) scale(1.0)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#818CF8"/></linearGradient></defs><rect x="2.5" y="2.5" width="59" height="51" rx="9" fill="none" stroke="url(#g)" stroke-width="4"/><line x1="2.5" y1="17" x2="61.5" y2="17" stroke="url(#g)" stroke-width="3.5"/><circle cx="12" cy="9.8" r="2.4" fill="#38BDF8"/><circle cx="20" cy="9.8" r="2.4" fill="#38BDF8"/><circle cx="28" cy="9.8" r="2.4" fill="#38BDF8"/><g fill="none" stroke="url(#g)" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22,28 14,36 22,44"/><line x1="36" y1="25" x2="28" y2="47"/><polyline points="42,28 50,36 42,44"/></g></g><text x="84" y="40" font-family="Outfit, Montserrat, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="3.5" fill="#F8FAFC">TELESCODE<tspan fill="#38BDF8" letter-spacing="0" dx="4">&lt;/&gt;</tspan></text><rect x="84" y="50" width="326" height="4" rx="2" fill="url(#g)"/></svg>">
-    <img alt="Telescode" src="<img width="1526" height="600" alt="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 72"><g transform="translate(4,8) scale(1.0)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#818CF8"/></linearGradient></defs><rect x="2.5" y="2.5" width="59" height="51" rx="9" fill="none" stroke="url(#g)" stroke-width="4"/><line x1="2.5" y1="17" x2="61.5" y2="17" stroke="url(#g)" stroke-width="3.5"/><circle cx="12" cy="9.8" r="2.4" fill="#38BDF8"/><circle cx="20" cy="9.8" r="2.4" fill="#38BDF8"/><circle cx="28" cy="9.8" r="2.4" fill="#38BDF8"/><g fill="none" stroke="url(#g)" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22,28 14,36 22,44"/><line x1="36" y1="25" x2="28" y2="47"/><polyline points="42,28 50,36 42,44"/></g></g><text x="84" y="40" font-family="Outfit, Montserrat, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="3.5" fill="#F8FAFC">TELESCODE<tspan fill="#38BDF8" letter-spacing="0" dx="4">&lt;/&gt;</tspan></text><rect x="84" y="50" width="326" height="4" rx="2" fill="url(#g)"/></svg>" src="https://github.com/user-attachments/assets/56bcb1de-ba86-43ac-ae15-48a1c51d01cd" />
-" width="420">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo.svg">
+    <img alt="Telescode" src="assets/logo_light.svg" width="420">
   </picture>
 </p>
 
-
-<h1 align="center">Finance Insides Dashboard</h1>
-
-<p align="center"><b>Finance Insights</b>: seu extrato, em respostas simples</p>
+<h1 align="center">Finance Insights</h1>
 
 <p align="center">
-  Quanto sobrou no mês? Envie o extrato do seu banco e descubra para onde o dinheiro foi, onde dá para economizar,
+  Envie o extrato do seu banco e descubra para onde o dinheiro vai, onde dá para economizar,
   quanto guardar para cada meta e o que essa economia vira investida.
 </p>
 
 <p align="center">
-  <a href="https://finance-insights-dashboard-telescode-4.streamlit.app/"><b>Ver o app no ar</b></a>
+  <a href="https://finance-insights-dashboard-telescode.streamlit.app/"><b>Ver o app no ar</b></a>
 </p>
 
 ---
 
 ## O que é
 
-O **Finance-insights-dashboard** (Finance Insights) é um dashboard de finanças pessoais feito em Python com Streamlit. Você envia o extrato
+O **Finance Insights** é um dashboard de finanças pessoais feito em Python com Streamlit. Você envia o extrato
 (CSV ou OFX) ou usa os dados de exemplo, e o app transforma linhas de transações em respostas simples: quanto sobrou
 no mês, o que pesou no orçamento, o que cortar, quanto guardar para cada objetivo e onde investir.
 
 Todo o app está em português e usa o formato brasileiro (R$, datas `dd/mm/aaaa`, vírgula decimal).
-
-## Demonstração
-
-<!-- Adicione prints ou um GIF em docs/ e referencie aqui, por exemplo:
-<p align="center"><img src="docs/visao-geral.png" width="900" alt="Visão geral do Sobrou"></p> -->
-
-Teste sem instalar nada: **[https://finance-insights-dashboard-telescode-4.streamlit.app/](https://finance-insights-dashboard-telescode-4.streamlit.app/)**.
-O app abre com dados de exemplo; para analisar o seu extrato, envie o arquivo na barra lateral.
 
 ## Páginas
 
