@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://finance-insights-dashboard-telescode.streamlit.app/"><b>Ver o app no ar</b></a>
+  <a href="https://finance-insights-dashboard-telescode-4.streamlit.app/"><b>Ver o app no ar</b></a>
 </p>
 
 ---
